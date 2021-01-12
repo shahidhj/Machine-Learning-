@@ -1,4 +1,4 @@
-# Machine-Learning-
+# Machine-Learning- Predicting click on AD 
 Implementation of different machine learning algorithms using python on tabular data
 
 **Data**: The dataset was obtained from [kaggle](https://www.kaggle.com/ervikassingh/useraddclickdata?select=advertising.csv). The goal is a to model a classification algorithm to predict if a user would click on a given advertisement or not based on a set of features. 
